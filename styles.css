@@ -1,0 +1,71 @@
+/*-------------------------------------
+        5.  Education
+--------------------------------------*/
+
+.education {
+    background: #f9fbfd;
+    padding-top: 50px;
+}
+
+.education-horizontal-timeline {
+    padding: 80px 0;
+}
+
+/*.education-horizontal-timeline*/
+.education-horizontal-timeline .col-sm-4 {
+    padding: 0 2px;
+}
+
+.education-horizontal-timeline .col-sm-4 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    /* Aligns content in a column */
+    align-items: end;
+    /* Centers the content horizontally */
+}
+
+.single-horizontal-timeline .experience-time h3 {
+    text-transform: capitalize;
+}
+
+.single-horizontal-timeline .experience-time h3 span {
+    text-transform: lowercase;
+}
+
+.single-horizontal-timeline .timeline-content h5 {
+    margin: 15px 0;
+}
+
+.single-horizontal-timeline p {
+    color: #999fb3;
+    max-width: 335px;
+}
+
+/*.timeline-horizontal-border*/
+.timeline-horizontal-border {
+    display: flex;
+    align-items: center;
+    padding: 26px 0 30px;
+}
+
+.timeline-horizontal-border i {
+    font-size: 10px;
+    color: #d92cf9;
+    margin-right: 5px;
+}
+
+span.single-timeline-horizontal {
+    display: inline-block;
+    background: #b2c1ce;
+    height: 1px;
+    width: 380px;
+}
+
+span.single-timeline-horizontal.spacial-horizontal-line {
+    width: 88px;
+}
+
+/*.timeline-horizontal-border*/
+
+/*.education-horizontal-timeline*/
